@@ -1,0 +1,15 @@
+.Foot{
+    padding-top: 5%;
+    
+}
+.foot-samyi-end{
+    padding-right: 10%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+
+}
+.foot2{
+    opacity: 0.5;
+}

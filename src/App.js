@@ -1,13 +1,15 @@
 import './App.css';
-import Header from './Header';
-import News1 from './News1';
+import Footer from './components/Footer';
+import Header from './components/Header';
+import Showcase from './components/Showcase';
 
 function App() {
   return (
     <div className="App">
       <div className='container'>
-      <Header/>
-      <News1/>
+        <Header/>
+        <Showcase/>
+        <Footer/>
       
       </div>
     </div>

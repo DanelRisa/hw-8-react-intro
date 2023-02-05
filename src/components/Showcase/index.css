@@ -1,0 +1,14 @@
+
+.Row{
+    display: flex;
+    flex-direction: row;
+
+}
+.Posts{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Post-row{
+    width: 70%;
+}
